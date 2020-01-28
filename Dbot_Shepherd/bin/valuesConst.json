@@ -1,0 +1,8 @@
+{
+	"dayConst": 86400000,
+	"hourConst": 3600000,
+	"minuteConst": 60000,
+	"timezonePST": -8,
+	"timezoneCST": 8,
+	"timezoneOffset": 16
+}

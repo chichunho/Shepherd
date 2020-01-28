@@ -1,0 +1,23 @@
+{
+	"oldname": "Season of Belonging",
+	"announced": true,
+	"name": "Season of Rhythm",
+	"pic": "https://i.imgur.com/CGx7JbF.jpg",
+	"picCredit": "twitter user @sky_tea11",
+	"dailyCandles": 6,
+	"spiritNumber": 6,
+	"spiritDawn": 33,
+	"spiritPrairie": 39,
+	"spiritRain": 45,
+	"spiritValley": 63,
+	"spiritWasteland": 71,
+	"spiritVault": 79,
+	"totalNeed": 330,
+	"spiritPic": "https://i.imgur.com/TF6Hkcl.jpg",
+	"startDate": "25 Jan 2020 00:00:00 PST",
+	"endDate": "5 Apr 2020 23:59:00 PST",
+	"extraCandlesStat": false,
+	"extraCandles": 1,
+	"extraCandlesStartDate": "5 Apr 2020 00:00:00 PST",
+	"extraCandlesEndDate": "5 Apr 2020 00:00:00 PST"
+}
